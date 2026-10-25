@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 本地待办数据（不想把个人清单传上去就保留这一行）
+todos.json
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
